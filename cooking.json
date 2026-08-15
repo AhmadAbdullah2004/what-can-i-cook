@@ -1,0 +1,947 @@
+[
+  {
+    "name": "Creamy Pasta",
+    "servings": 2,
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "Pasta",
+        "amount": "200 g"
+      },
+      {
+        "name": "Milk",
+        "amount": "1 cup"
+      },
+      {
+        "name": "Cheese",
+        "amount": "100 g"
+      },
+      {
+        "name": "Garlic",
+        "amount": "2 cloves"
+      },
+      {
+        "name": "Butter",
+        "amount": "2 tbsp"
+      },
+      {
+        "name": "Salt",
+        "amount": "1/2 tsp"
+      },
+      {
+        "name": "Black Pepper",
+        "amount": "1/4 tsp"
+      }
+    ],
+    "steps": [
+      "Bring a pot of salted water to a boil and cook the pasta according to the package instructions.",
+      "Melt the butter in a large pan over medium heat.",
+      "Add the minced garlic and cook for about 30 seconds until fragrant.",
+      "Add the milk and stir gently.",
+      "Add the cheese and continue stirring until the sauce becomes creamy and smooth.",
+      "Season with salt and black pepper.",
+      "Add the cooked pasta to the sauce and mix until all the pasta is coated.",
+      "Serve immediately while hot."
+    ],
+    "tips": [
+      "Reserve a little pasta water in case the sauce becomes too thick.",
+      "Use freshly grated cheese for a smoother sauce."
+    ],
+    "equipment": [
+      "Pot",
+      "Large pan",
+      "Wooden spoon",
+      "Colander"
+    ]
+  },
+  {
+    "name": "Grilled Chicken",
+    "servings": 2,
+    "prepTime": "10 min",
+    "cookTime": "30 min",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "Chicken",
+        "amount": "2 chicken breasts"
+      },
+      {
+        "name": "Garlic",
+        "amount": "2 cloves"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "2 tbsp"
+      },
+      {
+        "name": "Lemon",
+        "amount": "1 tbsp lemon juice"
+      },
+      {
+        "name": "Parsley",
+        "amount": "2 tbsp chopped"
+      },
+      {
+        "name": "Black Pepper",
+        "amount": "1/2 tsp"
+      },
+      {
+        "name": "Salt",
+        "amount": "1/2 tsp"
+      }
+    ],
+    "steps": [
+      "Place the chicken breasts on a clean surface and gently flatten the thicker parts for even cooking.",
+      "Mix olive oil, lemon juice, minced garlic, parsley, black pepper, and salt in a bowl.",
+      "Coat the chicken with the mixture and let it rest for about 10 minutes.",
+      "Preheat a grill or grill pan over medium heat.",
+      "Place the chicken on the grill and cook until golden on one side.",
+      "Turn the chicken and continue cooking until completely cooked through.",
+      "Check that the thickest part of the chicken reaches a safe internal temperature of 74°C.",
+      "Remove from the heat and let the chicken rest for a few minutes before serving."
+    ],
+    "tips": [
+      "Do not press the chicken repeatedly while grilling because it can lose moisture.",
+      "Letting the chicken rest before slicing helps keep it juicy."
+    ],
+    "equipment": [
+      "Grill or grill pan",
+      "Mixing bowl",
+      "Tongs"
+    ]
+  },
+  {
+    "name": "Pancakes",
+    "servings": 2,
+    "prepTime": "5 min",
+    "cookTime": "10 min",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "Flour",
+        "amount": "1 cup"
+      },
+      {
+        "name": "Milk",
+        "amount": "3/4 cup"
+      },
+      {
+        "name": "Eggs",
+        "amount": "1"
+      },
+      {
+        "name": "Butter",
+        "amount": "2 tbsp"
+      },
+      {
+        "name": "Salt",
+        "amount": "1/4 tsp"
+      },
+      {
+        "name": "Sugar",
+        "amount": "1 tbsp"
+      },
+      {
+        "name": "Baking Powder",
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      "Melt one tablespoon of butter and let it cool slightly.",
+      "Mix the flour, sugar, salt, and baking powder in a bowl.",
+      "Add the milk, egg, and melted butter.",
+      "Whisk gently until the ingredients are combined. Do not overmix.",
+      "Heat a non-stick pan over medium heat and lightly grease it with butter.",
+      "Pour a small amount of batter into the pan.",
+      "Cook until bubbles appear on the surface and the edges begin to set.",
+      "Flip the pancake and cook the other side until golden.",
+      "Repeat with the remaining batter.",
+      "Serve warm."
+    ],
+    "tips": [
+      "Do not overmix the batter because this can make the pancakes dense.",
+      "Keep the heat at medium so the outside does not brown too quickly."
+    ],
+    "equipment": [
+      "Mixing bowl",
+      "Whisk",
+      "Non-stick pan",
+      "Spatula"
+    ]
+  },
+  {
+    "name": "Beef Burger",
+    "servings": 2,
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "Beef",
+        "amount": "300 g ground beef"
+      },
+      {
+        "name": "Bread",
+        "amount": "2 burger buns"
+      },
+      {
+        "name": "Onion",
+        "amount": "1/2"
+      },
+      {
+        "name": "Tomato",
+        "amount": "1"
+      },
+      {
+        "name": "Cheese",
+        "amount": "2 slices"
+      },
+      {
+        "name": "Black Pepper",
+        "amount": "1/2 tsp"
+      },
+      {
+        "name": "Salt",
+        "amount": "1/2 tsp"
+      }
+    ],
+    "steps": [
+      "Divide the ground beef into two equal portions.",
+      "Shape each portion into a burger patty without pressing it too tightly.",
+      "Season both sides with salt and black pepper.",
+      "Heat a pan or grill over medium-high heat.",
+      "Cook the patties until browned on the first side.",
+      "Flip and continue cooking until the beef reaches a safe internal temperature of 71°C.",
+      "Place a cheese slice on each patty near the end of cooking and allow it to melt.",
+      "Lightly toast the burger buns.",
+      "Slice the tomato and onion.",
+      "Place the burger patty inside the bun and add the tomato and onion.",
+      "Serve immediately."
+    ],
+    "tips": [
+      "Do not flatten the patty repeatedly while cooking.",
+      "Use a food thermometer to check that ground beef is safely cooked."
+    ],
+    "equipment": [
+      "Pan or grill",
+      "Spatula",
+      "Knife",
+      "Cutting board"
+    ]
+  },
+  {
+    "name": "Chicken Fried Rice",
+    "servings": 2,
+    "prepTime": "15 min",
+    "cookTime": "15 min",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "Chicken",
+        "amount": "200 g"
+      },
+      {
+        "name": "Rice",
+        "amount": "2 cups cooked"
+      },
+      {
+        "name": "Eggs",
+        "amount": "2"
+      },
+      {
+        "name": "Onion",
+        "amount": "1/2"
+      },
+      {
+        "name": "Carrot",
+        "amount": "1"
+      },
+      {
+        "name": "Peas",
+        "amount": "1/2 cup"
+      },
+      {
+        "name": "Garlic",
+        "amount": "2 cloves"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "2 tbsp"
+      },
+      {
+        "name": "Salt",
+        "amount": "1/2 tsp"
+      },
+      {
+        "name": "Black Pepper",
+        "amount": "1/4 tsp"
+      }
+    ],
+    "steps": [
+      "Cut the chicken into small pieces.",
+      "Heat the olive oil in a large pan or wok over medium-high heat.",
+      "Add the chicken and cook until completely cooked through.",
+      "Add the chopped onion, carrot, peas, and garlic.",
+      "Stir-fry the vegetables for several minutes until slightly tender.",
+      "Push the chicken and vegetables to one side of the pan.",
+      "Crack the eggs into the empty side and scramble them until cooked.",
+      "Add the cooked rice to the pan.",
+      "Mix the rice, chicken, vegetables, and eggs together.",
+      "Season with salt and black pepper.",
+      "Stir-fry everything together for several minutes.",
+      "Serve hot."
+    ],
+    "tips": [
+      "Cold cooked rice works especially well because it is less likely to become mushy.",
+      "Keep the pan hot while stir-frying."
+    ],
+    "equipment": [
+      "Large pan or wok",
+      "Wooden spoon",
+      "Knife",
+      "Cutting board"
+    ]
+  },
+  {
+    "name": "Greek Salad",
+    "servings": 2,
+    "prepTime": "10 min",
+    "cookTime": "0 min",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "Tomato",
+        "amount": "2"
+      },
+      {
+        "name": "Cucumber",
+        "amount": "1"
+      },
+      {
+        "name": "Onion",
+        "amount": "1/2"
+      },
+      {
+        "name": "Cheese",
+        "amount": "100 g"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "2 tbsp"
+      },
+      {
+        "name": "Lemon",
+        "amount": "1 tbsp lemon juice"
+      },
+      {
+        "name": "Salt",
+        "amount": "1/4 tsp"
+      },
+      {
+        "name": "Black Pepper",
+        "amount": "1/4 tsp"
+      }
+    ],
+    "steps": [
+      "Wash the vegetables thoroughly.",
+      "Cut the tomatoes into medium-sized pieces.",
+      "Slice the cucumber.",
+      "Thinly slice the onion.",
+      "Cut the cheese into cubes or crumble it.",
+      "Place the vegetables and cheese in a large bowl.",
+      "Add olive oil and lemon juice.",
+      "Season with salt and black pepper.",
+      "Gently toss everything together.",
+      "Serve immediately."
+    ],
+    "tips": [
+      "Add the dressing shortly before serving to keep the vegetables fresh.",
+      "Cut the vegetables into similar-sized pieces for a better texture."
+    ],
+    "equipment": [
+      "Large bowl",
+      "Knife",
+      "Cutting board"
+    ]
+  },
+  {
+    "name": "Chicken Sandwich",
+    "servings": 2,
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "Chicken",
+        "amount": "200 g"
+      },
+      {
+        "name": "Bread",
+        "amount": "2 sandwich rolls"
+      },
+      {
+        "name": "Lettuce",
+        "amount": "4 leaves"
+      },
+      {
+        "name": "Tomato",
+        "amount": "1"
+      },
+      {
+        "name": "Cheese",
+        "amount": "2 slices"
+      },
+      {
+        "name": "Mayonnaise",
+        "amount": "2 tbsp"
+      },
+      {
+        "name": "Salt",
+        "amount": "1/4 tsp"
+      },
+      {
+        "name": "Black Pepper",
+        "amount": "1/4 tsp"
+      }
+    ],
+    "steps": [
+      "Slice the chicken into thin pieces.",
+      "Season the chicken with salt and black pepper.",
+      "Heat a pan over medium heat.",
+      "Cook the chicken until completely cooked through.",
+      "Slice the tomato and prepare the lettuce.",
+      "Lightly toast the sandwich bread.",
+      "Spread mayonnaise on the inside of the bread.",
+      "Add lettuce, tomato, cooked chicken, and cheese.",
+      "Close the sandwich and serve."
+    ],
+    "tips": [
+      "Slice the chicken evenly so it cooks at the same rate.",
+      "You can lightly toast the bread for extra texture."
+    ],
+    "equipment": [
+      "Pan",
+      "Knife",
+      "Cutting board"
+    ]
+  },
+  {
+    "name": "Omelette",
+    "servings": 1,
+    "prepTime": "5 min",
+    "cookTime": "5 min",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "Eggs",
+        "amount": "2"
+      },
+      {
+        "name": "Onion",
+        "amount": "1/4"
+      },
+      {
+        "name": "Tomato",
+        "amount": "1/2"
+      },
+      {
+        "name": "Cheese",
+        "amount": "50 g"
+      },
+      {
+        "name": "Bell Pepper",
+        "amount": "1/4"
+      },
+      {
+        "name": "Black Pepper",
+        "amount": "1/4 tsp"
+      },
+      {
+        "name": "Salt",
+        "amount": "1/4 tsp"
+      },
+      {
+        "name": "Butter",
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      "Crack the eggs into a bowl.",
+      "Beat the eggs with salt and black pepper.",
+      "Chop the onion, tomato, and bell pepper into small pieces.",
+      "Melt the butter in a non-stick pan over medium heat.",
+      "Add the onion and bell pepper and cook briefly.",
+      "Add the tomato and cook for another minute.",
+      "Pour the beaten eggs over the vegetables.",
+      "Let the eggs cook until the edges begin to set.",
+      "Add the cheese.",
+      "Fold the omelette in half.",
+      "Continue cooking until the eggs are fully set.",
+      "Serve immediately."
+    ],
+    "tips": [
+      "Keep the heat moderate so the eggs cook gently.",
+      "Do not overload the omelette with fillings."
+    ],
+    "equipment": [
+      "Bowl",
+      "Whisk",
+      "Non-stick pan",
+      "Spatula"
+    ]
+  },
+  {
+    "name": "Beef Pasta",
+    "servings": 2,
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "name": "Beef",
+        "amount": "250 g ground beef"
+      },
+      {
+        "name": "Pasta",
+        "amount": "200 g"
+      },
+      {
+        "name": "Tomato",
+        "amount": "2"
+      },
+      {
+        "name": "Onion",
+        "amount": "1/2"
+      },
+      {
+        "name": "Garlic",
+        "amount": "2 cloves"
+      },
+      {
+        "name": "Cheese",
+        "amount": "50 g"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "2 tbsp"
+      },
+      {
+        "name": "Salt",
+        "amount": "1/2 tsp"
+      },
+      {
+        "name": "Black Pepper",
+        "amount": "1/4 tsp"
+      }
+    ],
+    "steps": [
+      "Cook the pasta in salted boiling water according to the package instructions.",
+      "Heat olive oil in a large pan.",
+      "Add the chopped onion and cook until softened.",
+      "Add the garlic and cook briefly.",
+      "Add the ground beef and cook until browned and completely cooked.",
+      "Add the chopped tomatoes.",
+      "Season with salt and black pepper.",
+      "Simmer the sauce until the tomatoes soften and the mixture thickens.",
+      "Drain the pasta and add it to the beef sauce.",
+      "Mix until the pasta is evenly coated.",
+      "Top with cheese and serve hot."
+    ],
+    "tips": [
+      "Reserve some pasta water to loosen the sauce if needed.",
+      "Break the beef into small pieces while cooking."
+    ],
+    "equipment": [
+      "Large pot",
+      "Large pan",
+      "Wooden spoon",
+      "Colander"
+    ]
+  },
+  {
+    "name": "Chicken Soup",
+    "servings": 4,
+    "prepTime": "15 min",
+    "cookTime": "30 min",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "Chicken",
+        "amount": "300 g"
+      },
+      {
+        "name": "Potato",
+        "amount": "2"
+      },
+      {
+        "name": "Carrot",
+        "amount": "2"
+      },
+      {
+        "name": "Onion",
+        "amount": "1"
+      },
+      {
+        "name": "Garlic",
+        "amount": "2 cloves"
+      },
+      {
+        "name": "Parsley",
+        "amount": "2 tbsp"
+      },
+      {
+        "name": "Salt",
+        "amount": "1 tsp"
+      },
+      {
+        "name": "Black Pepper",
+        "amount": "1/2 tsp"
+      },
+      {
+        "name": "Water",
+        "amount": "5 cups"
+      }
+    ],
+    "steps": [
+      "Cut the chicken into small pieces.",
+      "Peel and chop the potatoes and carrots.",
+      "Chop the onion and garlic.",
+      "Place the chicken and water in a large pot.",
+      "Bring the water to a gentle boil.",
+      "Add the onion, garlic, carrots, and potatoes.",
+      "Season with salt and black pepper.",
+      "Reduce the heat and simmer until the chicken and vegetables are completely cooked.",
+      "Check that the chicken reaches a safe internal temperature of 74°C.",
+      "Add the chopped parsley near the end of cooking.",
+      "Taste and adjust the seasoning.",
+      "Serve hot."
+    ],
+    "tips": [
+      "Remove any foam that rises to the surface during the early cooking stage.",
+      "Cut the vegetables into similar-sized pieces so they cook evenly."
+    ],
+    "equipment": [
+      "Large pot",
+      "Knife",
+      "Cutting board",
+      "Ladle"
+    ]
+  },
+  {
+    "name": "Garlic Bread",
+    "servings": 2,
+    "prepTime": "5 min",
+    "cookTime": "10 min",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "Bread",
+        "amount": "1 loaf"
+      },
+      {
+        "name": "Butter",
+        "amount": "3 tbsp"
+      },
+      {
+        "name": "Garlic",
+        "amount": "3 cloves"
+      },
+      {
+        "name": "Parsley",
+        "amount": "2 tbsp"
+      },
+      {
+        "name": "Cheese",
+        "amount": "50 g"
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 200°C.",
+      "Melt the butter in a small bowl.",
+      "Add minced garlic and chopped parsley to the butter.",
+      "Cut the bread into slices without cutting all the way through the bottom.",
+      "Spread the garlic butter between the slices.",
+      "Add grated cheese over the bread.",
+      "Place the bread on a baking tray.",
+      "Bake until the bread is crisp and the cheese has melted.",
+      "Remove from the oven and serve warm."
+    ],
+    "tips": [
+      "Do not cut completely through the loaf if you want the slices to stay connected.",
+      "Watch the bread during the final minutes because it can brown quickly."
+    ],
+    "equipment": [
+      "Baking tray",
+      "Small bowl",
+      "Knife",
+      "Oven"
+    ]
+  },
+  {
+    "name": "Vegetable Rice",
+    "servings": 3,
+    "prepTime": "10 min",
+    "cookTime": "20 min",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "Rice",
+        "amount": "1.5 cups"
+      },
+      {
+        "name": "Carrot",
+        "amount": "1"
+      },
+      {
+        "name": "Peas",
+        "amount": "1/2 cup"
+      },
+      {
+        "name": "Corn",
+        "amount": "1/2 cup"
+      },
+      {
+        "name": "Onion",
+        "amount": "1/2"
+      },
+      {
+        "name": "Bell Pepper",
+        "amount": "1/2"
+      },
+      {
+        "name": "Garlic",
+        "amount": "2 cloves"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "2 tbsp"
+      },
+      {
+        "name": "Salt",
+        "amount": "1/2 tsp"
+      }
+    ],
+    "steps": [
+      "Rinse the rice until the water becomes mostly clear.",
+      "Heat olive oil in a pot over medium heat.",
+      "Add the chopped onion and cook until softened.",
+      "Add garlic, carrot, peas, corn, and bell pepper.",
+      "Cook the vegetables for several minutes.",
+      "Add the rinsed rice and stir for one minute.",
+      "Add enough water according to the rice package instructions.",
+      "Season with salt.",
+      "Bring the mixture to a boil.",
+      "Reduce the heat, cover the pot, and cook until the rice is tender and the liquid is absorbed.",
+      "Turn off the heat and let the rice rest covered for a few minutes.",
+      "Fluff the rice gently with a fork and serve."
+    ],
+    "tips": [
+      "Avoid stirring the rice repeatedly while it cooks.",
+      "Letting the rice rest after cooking helps improve its texture."
+    ],
+    "equipment": [
+      "Pot",
+      "Wooden spoon",
+      "Fork",
+      "Knife"
+    ]
+  },
+  {
+    "name": "Chicken Wrap",
+    "servings": 2,
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "name": "Chicken",
+        "amount": "200 g"
+      },
+      {
+        "name": "Bread",
+        "amount": "2 flatbreads"
+      },
+      {
+        "name": "Lettuce",
+        "amount": "4 leaves"
+      },
+      {
+        "name": "Tomato",
+        "amount": "1"
+      },
+      {
+        "name": "Cheese",
+        "amount": "50 g"
+      },
+      {
+        "name": "Yogurt",
+        "amount": "3 tbsp"
+      },
+      {
+        "name": "Garlic",
+        "amount": "1 clove"
+      },
+      {
+        "name": "Salt",
+        "amount": "1/4 tsp"
+      },
+      {
+        "name": "Black Pepper",
+        "amount": "1/4 tsp"
+      }
+    ],
+    "steps": [
+      "Cut the chicken into thin strips.",
+      "Season the chicken with salt and black pepper.",
+      "Heat a pan over medium heat.",
+      "Cook the chicken until completely cooked through.",
+      "Mix yogurt with minced garlic to make a simple sauce.",
+      "Slice the tomato and prepare the lettuce.",
+      "Warm the flatbreads briefly.",
+      "Spread the yogurt sauce over each flatbread.",
+      "Add lettuce, tomato, chicken, and cheese.",
+      "Fold the sides of the flatbread inward and roll it tightly.",
+      "Serve immediately."
+    ],
+    "tips": [
+      "Do not overfill the wrap because it can become difficult to roll.",
+      "Warm the bread slightly before rolling."
+    ],
+    "equipment": [
+      "Pan",
+      "Mixing bowl",
+      "Knife",
+      "Cutting board"
+    ]
+  },
+  {
+    "name": "Potato Omelette",
+    "servings": 2,
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "name": "Potato",
+        "amount": "2 medium"
+      },
+      {
+        "name": "Eggs",
+        "amount": "4"
+      },
+      {
+        "name": "Onion",
+        "amount": "1/2"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "2 tbsp"
+      },
+      {
+        "name": "Black Pepper",
+        "amount": "1/4 tsp"
+      },
+      {
+        "name": "Salt",
+        "amount": "1/2 tsp"
+      }
+    ],
+    "steps": [
+      "Peel the potatoes and cut them into small thin pieces.",
+      "Slice the onion.",
+      "Heat olive oil in a non-stick pan.",
+      "Add the potatoes and cook until they begin to soften.",
+      "Add the onion and continue cooking until the potatoes are tender and lightly golden.",
+      "Beat the eggs in a bowl with salt and black pepper.",
+      "Pour the eggs over the potato and onion mixture.",
+      "Cook over medium-low heat until the bottom is set.",
+      "Carefully turn or fold the omelette.",
+      "Continue cooking until the eggs are fully set.",
+      "Serve warm."
+    ],
+    "tips": [
+      "Cut the potatoes evenly so they cook at the same rate.",
+      "Use medium-low heat once the eggs are added."
+    ],
+    "equipment": [
+      "Non-stick pan",
+      "Bowl",
+      "Spatula",
+      "Knife"
+    ]
+  },
+  {
+    "name": "Creamy Chicken Pasta",
+    "servings": 2,
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "name": "Chicken",
+        "amount": "200 g"
+      },
+      {
+        "name": "Pasta",
+        "amount": "200 g"
+      },
+      {
+        "name": "Milk",
+        "amount": "1/2 cup"
+      },
+      {
+        "name": "Cream",
+        "amount": "1/2 cup"
+      },
+      {
+        "name": "Cheese",
+        "amount": "80 g"
+      },
+      {
+        "name": "Garlic",
+        "amount": "2 cloves"
+      },
+      {
+        "name": "Butter",
+        "amount": "2 tbsp"
+      },
+      {
+        "name": "Black Pepper",
+        "amount": "1/4 tsp"
+      },
+      {
+        "name": "Salt",
+        "amount": "1/2 tsp"
+      }
+    ],
+    "steps": [
+      "Cut the chicken into small pieces.",
+      "Cook the pasta in salted boiling water according to the package instructions.",
+      "Melt the butter in a large pan over medium heat.",
+      "Add the chicken and cook until completely cooked through.",
+      "Add the minced garlic and cook briefly until fragrant.",
+      "Add the milk and cream.",
+      "Stir gently and allow the sauce to warm without boiling aggressively.",
+      "Add the cheese and stir until melted and creamy.",
+      "Season with salt and black pepper.",
+      "Add the cooked pasta to the sauce.",
+      "Mix until the chicken, pasta, and sauce are evenly combined.",
+      "Serve hot."
+    ],
+    "tips": [
+      "Reserve some pasta water to adjust the sauce consistency.",
+      "Keep the heat moderate after adding the dairy ingredients.",
+      "Make sure the chicken is completely cooked before serving."
+    ],
+    "equipment": [
+      "Large pot",
+      "Large pan",
+      "Colander",
+      "Wooden spoon",
+      "Knife",
+      "Cutting board"
+    ]
+  }
+]

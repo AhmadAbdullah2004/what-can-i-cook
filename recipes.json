@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Creamy Pasta",
+    "rating": 4.8,
+    "time": "25 min",
+    "description": "A simple and delicious creamy pasta recipe.",
+    "image": "img/Creamy Pasta.jpg",
+    "ingredients": [
+      "Pasta",
+      "Milk",
+      "Cheese",
+      "Garlic",
+      "Butter"
+    ]
+  },
+  {
+    "name": "Grilled Chicken",
+    "rating": 4.7,
+    "time": "40 min",
+    "description": "Juicy grilled chicken with fresh herbs.",
+    "image": "img/Grilled Chicken.jpg",
+    "ingredients": [
+      "Chicken",
+      "Garlic",
+      "Olive Oil",
+      "Lemon",
+      "Parsley",
+      "Black Pepper",
+      "Salt"
+    ]
+  },
+  {
+    "name": "Pancakes",
+    "rating": 4.9,
+    "time": "15 min",
+    "description": "Soft and fluffy pancakes for a perfect breakfast.",
+    "image": "img/Pancakes.jpg",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Eggs",
+      "Butter"
+    ]
+  },
+  {
+    "name": "Beef Burger",
+    "rating": 4.6,
+    "time": "30 min",
+    "description": "A delicious homemade beef burger.",
+    "image": "img/Beef Burger.jpg",
+    "ingredients": [
+      "Beef",
+      "Bread",
+      "Onion",
+      "Tomato",
+      "Cheese",
+      "Black Pepper",
+      "Salt"
+    ]
+  },
+  {
+    "name": "Chicken Fried Rice",
+    "rating": 4.8,
+    "time": "30 min",
+    "description": "A quick fried rice dish with chicken and vegetables.",
+    "image": "img/Chicken Fried Rice.jpg",
+    "ingredients": [
+      "Chicken",
+      "Rice",
+      "Eggs",
+      "Onion",
+      "Carrot",
+      "Peas",
+      "Garlic"
+    ]
+  },
+  {
+    "name": "Greek Salad",
+    "rating": 4.7,
+    "time": "15 min",
+    "description": "A fresh and colorful salad with vegetables and cheese.",
+    "image": "img/Greek Salad.jpg",
+    "ingredients": [
+      "Tomato",
+      "Cucumber",
+      "Onion",
+      "Cheese",
+      "Olive Oil",
+      "Lemon"
+    ]
+  },
+  {
+    "name": "Chicken Sandwich",
+    "rating": 4.6,
+    "time": "20 min",
+    "description": "A tasty chicken sandwich with fresh vegetables.",
+    "image": "img/Chicken Sandwich.jpg",
+    "ingredients": [
+      "Chicken",
+      "Bread",
+      "Lettuce",
+      "Tomato",
+      "Cheese",
+      "Mayonnaise"
+    ]
+  },
+  {
+    "name": "Omelette",
+    "rating": 4.8,
+    "time": "10 min",
+    "description": "A quick and easy omelette loaded with fresh ingredients.",
+    "image": "img/Omelette.jpg",
+    "ingredients": [
+      "Eggs",
+      "Onion",
+      "Tomato",
+      "Cheese",
+      "Bell Pepper",
+      "Black Pepper",
+      "Salt"
+    ]
+  },
+  {
+    "name": "Beef Pasta",
+    "rating": 4.7,
+    "time": "35 min",
+    "description": "A hearty pasta dish with seasoned beef and tomato.",
+    "image": "img/Beef Pasta.jpg",
+    "ingredients": [
+      "Beef",
+      "Pasta",
+      "Tomato",
+      "Onion",
+      "Garlic",
+      "Cheese",
+      "Olive Oil"
+    ]
+  },
+  {
+    "name": "Chicken Soup",
+    "rating": 4.5,
+    "time": "45 min",
+    "description": "A warm and comforting homemade chicken soup.",
+    "image": "img/Chicken Soup.jpg",
+    "ingredients": [
+      "Chicken",
+      "Potato",
+      "Carrot",
+      "Onion",
+      "Garlic",
+      "Parsley",
+      "Salt",
+      "Black Pepper"
+    ]
+  },
+  {
+    "name": "Garlic Bread",
+    "rating": 4.6,
+    "time": "15 min",
+    "description": "Crispy bread with butter and garlic.",
+    "image": "img/Garlic Bread.jpg",
+    "ingredients": [
+      "Bread",
+      "Butter",
+      "Garlic",
+      "Parsley",
+      "Cheese"
+    ]
+  },
+  {
+    "name": "Vegetable Rice",
+    "rating": 4.5,
+    "time": "25 min",
+    "description": "Simple rice cooked with colorful vegetables.",
+    "image": "img/Vegetable Rice.jpg",
+    "ingredients": [
+      "Rice",
+      "Carrot",
+      "Peas",
+      "Corn",
+      "Onion",
+      "Bell Pepper",
+      "Garlic"
+    ]
+  },
+  {
+    "name": "Chicken Wrap",
+    "rating": 4.7,
+    "time": "20 min",
+    "description": "A fresh and filling chicken wrap with vegetables.",
+    "image": "img/Chicken Wrap.jpg",
+    "ingredients": [
+      "Chicken",
+      "Bread",
+      "Lettuce",
+      "Tomato",
+      "Cheese",
+      "Yogurt",
+      "Garlic"
+    ]
+  },
+  {
+    "name": "Potato Omelette",
+    "rating": 4.6,
+    "time": "25 min",
+    "description": "A simple omelette with crispy potatoes.",
+    "image": "img/Potato Omelette.jpg",
+    "ingredients": [
+      "Potato",
+      "Eggs",
+      "Onion",
+      "Olive Oil",
+      "Black Pepper",
+      "Salt"
+    ]
+  },
+  {
+    "name": "Creamy Chicken Pasta",
+    "rating": 4.9,
+    "time": "35 min",
+    "description": "Creamy pasta combined with tender chicken and cheese.",
+    "image": "img/Creamy Chicken Pasta.jpg",
+    "ingredients": [
+      "Chicken",
+      "Pasta",
+      "Milk",
+      "Cream",
+      "Cheese",
+      "Garlic",
+      "Butter",
+      "Black Pepper"
+    ]
+  }
+]

@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>What Can I Cook?</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" /><!--أريد تجهيز اتصال بهذا السيرفر مسبقا. -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+    />
+
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+  <div class="hero-wrapper"  id="hero-wrapper">
+   <nav>
+  <div class="brand">
+    <img src="img/cook-book.png" alt="Logo" />
+    <span>What Can I Cook?</span>
+  </div>
+
+  <ul class="menu">
+    <li><a href="#hero-wrapper" class="active" >Home </a>  <span></span></li>
+    <li><a href="#how-it-works">how it works </a>  <span></span></li>
+    <li><a href="#popular-recipes">popular recipes </a>  <span></span></li>
+    <li><a href="get-started.html">Get started </a>  <span></span></li>
+    <li><a href="about.html">About </a>  <span></span></li>
+  </ul>
+
+   </nav>
+ <section class="hero" >
+
+    <div class="hero-content" >
+
+      <h1>What can I cook today?</h1>
+
+      <p>
+        Discover delicious recipes using the ingredients you already have.
+      </p>
+
+      <a href="get-started.html">Find Recipes →</a>
+
+    </div>
+
+  </section>
+  </div>
+  <div class="content-wrapper">
+<section class="how-it-works" id="how-it-works">
+
+  <h2>How It Works?</h2>
+
+  <div class="card">
+
+    <a href="get-started.html" class="step ">
+      <h3>Choose Your Ingredients</h3>
+
+      <p>
+        Tell us what ingredients you already have.
+      </p>
+    </a>
+
+    <a href="get-started.html" class="step ">
+      <h3>Find a Recipe</h3>
+
+      <p>
+        Discover recipes you can make with what you have.
+      </p>
+    </a>
+
+    <a href="get-started.html" class="step ">
+      <h3>Start Cooking</h3>
+
+      <p>
+        Pick your favorite recipe and start cooking.
+      </p>
+    </a>
+
+  </div>
+
+</section>
+
+
+<section class="popular-recipes" id="popular-recipes">
+
+  <h2>Popular Recipes</h2>
+
+  <div class="recipe-container">
+
+    <!-- Previous Recipe -->
+    <button class="recipe-btn prev" type="button">
+      ←
+    </button>
+
+
+    <!-- Recipe Content -->
+    <div class="recipe-display">
+
+      <div class="recipe-image">
+        <img src="img/Creamy Pasta.jpg" alt="Creamy Pasta" />
+      </div>
+
+
+      <div class="recipe-info">
+
+        <h3></h3>
+
+        <div class="recipe-meta">
+          <span></span>
+          <span></span>
+        </div>
+
+        <p>
+         
+        </p>
+
+        <a href="recipes.html" class="recipe-link">
+          View Recipe →
+        </a>
+
+      </div>
+
+    </div>
+
+
+  
+    <button class="recipe-btn next" type="button">
+      →
+    </button>
+
+  </div>
+
+
+  <div class="recipe-counter">
+    <span id="current-recipe"></span>
+    <span>/</span>
+    <span id="total-recipes"></span>
+  </div>
+
+</section>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
